@@ -7,7 +7,7 @@ Tickets and executes each Ticket in its own session and directory.
 
 ## Usage
 
-dsh-superagent works against this repository as its target. Dispatch work to the
+dsh-superagent targets this repository. Dispatch work to the
 agent by commenting `@happyendingismine1-dsh <request>` on an Issue or by
 mentioning the bot in the configured Feishu chat. All changes are submitted as
 pull requests.
